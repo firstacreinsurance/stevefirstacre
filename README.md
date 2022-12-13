@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stevefirstacre
 - 👀 I’m interested in advanced data, ML, computer vision, IoT, text processing solutions supporting the Agriculture and Insurance industries.
-- 🌱 I’m currently learning lots.
+- 🌱 I'm looking for data and solutions for the Canadian farm insurance industry.
 - 💞️ I’m looking to collaborate on farm tech.
 - 📫 How to reach me steve@firstacre.ca
 
